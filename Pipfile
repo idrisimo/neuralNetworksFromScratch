@@ -9,6 +9,7 @@ numpy = "*"
 nnfs = "*"
 jupyterlab = "*"
 tensorflow = "*"
+opencv-python = "*"
 
 [dev-packages]
 
