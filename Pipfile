@@ -8,6 +8,7 @@ matplotlib = "*"
 numpy = "*"
 nnfs = "*"
 jupyterlab = "*"
+tensorflow = "*"
 
 [dev-packages]
 
