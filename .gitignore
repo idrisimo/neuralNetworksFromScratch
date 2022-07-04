@@ -2,3 +2,5 @@ kagglecatsanddogs/
 num_reader.model/
 X.pickle
 y.pickle
+logs/
+
