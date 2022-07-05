@@ -10,6 +10,8 @@ nnfs = "*"
 jupyterlab = "*"
 tensorflow = "*"
 opencv-python = "*"
+tensorflow-gpu = "*"
+ipykernel = "*"
 
 [dev-packages]
 
