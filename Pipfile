@@ -12,6 +12,8 @@ tensorflow = "*"
 opencv-python = "*"
 tensorflow-gpu = "*"
 ipykernel = "*"
+pandas = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
